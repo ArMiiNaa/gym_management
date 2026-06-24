@@ -1,6 +1,6 @@
 # Gym Management System (Database Project) 
 
-A comprehensive relational database system designed to streamline and manage the operations of a professional fitness center or gym. This project focuses on database design, normalization, and efficient SQL querying.
+A comprehensive relational database system designed to streamline and manage the operations of a gym. This project focuses on database design, normalization, and efficient SQL querying.
 
 ##  Key Features
 - **Member Management:** Tracks member details, registration dates, and active memberships.
