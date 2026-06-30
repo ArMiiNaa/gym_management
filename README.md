@@ -27,9 +27,3 @@ This database consists of several core tables to handle complex relationships:
 </p> 
 -->
 
-
-##  How to Use
-1. Clone the repository:
-```bash
-   git clone https://github.com/ArMiiNaa/gym_management.git
-   
